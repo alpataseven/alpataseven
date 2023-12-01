@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alp</h1>
-<h3 align="center">A excited software developer student from Turkey.</h3>
+<h3 align="center">A excited management information systems student from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpataseven&label=Profile%20views&color=0e75b6&style=flat" alt="alpataseven" /> </p>
 
