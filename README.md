@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My First Django Project](https://github.com/alpataseven/django_website)
 
-- 🌱 I’m currently learning **C#, ASP.NET, Javascript, React**
+- 🌱 I’m currently learning **C#, ASP.NET, Javascript, React, Django**
 
 - 📫 How to reach me **alperenataseven.3@gmail.com**
 
