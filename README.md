@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpataseven" alt="alpataseven" /></a> </p>
 
-- 🔭 I’m currently working on [My First Django Project](https://github.com/alpataseven/django_website)
+- 🔭 I’m currently working on [My First Asp.Net Project](https://github.com/alpataseven/Asp.net_Core)
 
 - 🌱 I’m currently learning **C#, ASP.NET, Javascript, React, Django**
 
