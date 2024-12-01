@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpataseven" alt="alpataseven" /></a> </p>
 
-- 🔭 I’m currently working on [React Form Project]((https://github.com/alpataseven/ReactForm))
+- 🔭 I’m currently working on [React Form Project](https://github.com/alpataseven/ReactForm)
 
 - 🌱 I’m currently learning **C#, ASP.NET, Javascript, React, Django**
 
